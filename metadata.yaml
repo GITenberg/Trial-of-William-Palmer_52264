@@ -1,0 +1,26 @@
+_repo: Trial-of-William-Palmer_52264
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Knott, George H.
+    deathdate: 1924
+    gutenberg_agent_id: '46761'
+    url: http://www.gutenberg.org/2009/agents/46761
+description: ''
+gutenberg_issued: '2016-06-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52264'
+  lccn: '12017217'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Trials (Murder) -- England -- London'
+- !lcsh 'Palmer, William, 1824-1856 -- Trials, litigation, etc.'
+- !lcsh 'Cook, John Parsons, -1855'
+- !lcc 'KD'
+- GITenberg
+title: Trial of William Palmer
+url: http://www.gutenberg.org/ebooks/52264
